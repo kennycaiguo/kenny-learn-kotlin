@@ -10,4 +10,5 @@ KorGE Game Engine. Multiplatform Kotlin Game Engine：https://github.com/korlibs
 使用Kotlin实现对称加密、非对称加密、消息摘要、数字签名  https://github.com/ouyangpeng/CryptionDemoOnKotlin <br/>
 A curated list of awesome Kotlin related stuff      https://github.com/KotlinBy/awesome-kotlin <br/>
 开发相关电子书籍(PDF)，Android开发，Kotlin、Java、网络 https://github.com/githupdzt/DevBooks <br/>
-awesome-kotlin-cn                                   https://github.com/xitu/awesome-kotlin-cn <br/>
+awesome-kotlin-cn(kotlin资源大全，开源库和框架)       https://github.com/xitu/awesome-kotlin-cn <br/>
+                
